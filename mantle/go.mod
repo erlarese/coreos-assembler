@@ -5,6 +5,7 @@ go 1.12
 require (
 	github.com/Azure/azure-sdk-for-go v8.1.0-beta+incompatible
 	github.com/Azure/go-autorest v9.1.0+incompatible
+	github.com/IBM/vpc-go-sdk v0.1.0 // indirect
 	github.com/Microsoft/azure-vhd-utils v0.0.0-20161127050200-43293b8d7646
 	github.com/ajeddeloh/yaml v0.0.0-20170912190910-6b94386aeefd // indirect
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
